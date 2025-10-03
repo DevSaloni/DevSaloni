@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Saloni Pawar  
 
-<!--
-**DevSaloni/DevSaloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | 🌟 MERN Stack Learner | 🚀 Blockchain Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+**Frontend:**  
+🌐 HTML | 🎨 CSS | ⚡ JavaScript  
+
+**Backend:**  
+🟢 Node.js | 🚀 Express.js | 🗄️ MongoDB  
+
+**Blockchain & Web3:**  
+⛓️ Solidity | 🌍 Ethereum | 🦊 MetaMask | 🔨 Hardhat | 📜 Smart Contracts  
+
+**Tools & Technologies:**  
+⚙️ Git | 💻 GitHub | 📝 VS Code | 🎯 Tailwind CSS  
+
+---
+
+## 🌱 About Me
+- 📖 Currently pursuing **B.Tech**  
+- ✨ Passionate about web & blockchain development  
+- 🌈 Always curious and learning new things  
+
+---
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/saloni-pawar-630b23270/)  
+- 📧 Email: salonipawar294@gmail.com  
